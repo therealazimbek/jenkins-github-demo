@@ -1,2 +1,3 @@
+[![Build Status](http://ec2-3-81-226-55.compute-1.amazonaws.com/buildStatus/icon?job=jenkins-github-demo)](http://ec2-3-81-226-55.compute-1.amazonaws.com/job/jenkins-github-demo/)
 # jenkins-github-demo
 trigger demo...
